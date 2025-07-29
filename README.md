@@ -9,4 +9,4 @@
 Python e JavaScript 
 
 📊 GitHub Stats
-gustvogl https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical
+gustvogl https://github.com/gustvogl
