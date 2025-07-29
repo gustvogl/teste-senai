@@ -1,4 +1,4 @@
-#👋 Olá! Eu sou [Gustavo Luis Ferreira Silva]
+👋 Olá! Eu sou [Gustavo Luis Ferreira Silva]
 
 🎓 Estudante de TI
 💻 Apaixonado por programação e tecnologia  
